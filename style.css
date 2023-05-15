@@ -130,3 +130,76 @@ padding: 20px 100px;
     transition: 0.4s;
 }
 
+footer{
+    background-color: #ddddbb;
+    padding: 20px 20px;
+    border-top: 5px groove black;
+}
+
+.imagenpie{
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logopie{
+    width: 120px;
+    height: auto;
+}
+
+.textopie{
+    text-align: center;
+}
+
+.ultimotextovideo{
+    padding: 20px 100px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.presentaciones{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 400px;
+}
+
+.logopowerpoint{
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.logopowerpoint:hover{
+    transition: 0.3s;
+    transform: scale(1.2);
+}
+
+.logopowerpoint2{
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.logopowerpoint2:hover{
+    transition: 0.3s;
+    transform: scale(1.2);
+}
+
+.textopresentaciones{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 400px;
+}
+
+.texto1{
+    text-align: center;
+}
+
+.texto2{
+    text-align: center;
+}
